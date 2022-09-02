@@ -11,10 +11,10 @@
 # Endpoint examples:
 # https://westus2.api.cognitive.microsoft.com/anomalydetector/v1.0/timeseries/entire/detect
 # http://127.0.0.1:5000/anomalydetector/v1.0/timeseries/entire/detect
-#apikey = 'e16023cddd3c44c8a1536b05315f81db' 
-#endpoint = 'https://anomalies-pavel.cognitiveservices.azure.com/anomalydetector/v1.0/timeseries/entire/detect'
-apikey = '46354ef35e674c429fc01b612157a200' 
-endpoint = 'https://myanomaly2022.cognitiveservices.azure.com/anomalydetector/v1.0/timeseries/entire/detect'
+#apikey = '' 
+#endpoint = ''
+apikey = '' 
+endpoint = ''
 
 
 # In[19]:
